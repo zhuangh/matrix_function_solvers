@@ -1,3 +1,5 @@
 env
 env/*
-
+# vim 
+*.swp
+*.swo
